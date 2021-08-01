@@ -1,5 +1,5 @@
 // API Key
-const apiKey = "b773ba3167fd9791028d0f0f123759cc";
+const apiKey = "daafa0b3cc65c24b0443a358fc6b2304";
 // Time format
 const currDate = moment().format('MMM Do YYYY');
 const dateFiveDay = moment().format('MM/DD/YY');
